@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93709962-68c7-41e9-b91e-045066150e1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jzXWZP5HaH3S1VfEVfR74qAtlZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chiho\OneDrive\바탕 화면\　\프로그래밍\KotlinProgramming\src\codeforces\practice\under1000" />
+      <recent name="C:\Users\chiho\OneDrive\바탕 화면\　\프로그래밍\KotlinProgramming\src\baekjoon\section14" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application._1931_2__JVM_Kt">
+    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="baekjoon.section15.TestKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_11047_2__JVM_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="baekjoon.section15._11047_2__JVM_Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_11047_JVM_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="baekjoon.section15._11047_JVM_Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1931_2__JVM_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="baekjoon.section15._1931_2__JVM_Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1931_JVM_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="baekjoon.section15._1931_JVM_Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._1931_2__JVM_Kt" />
+        <item itemvalue="Application._1931_JVM_Kt" />
+        <item itemvalue="Application.TestKt" />
+        <item itemvalue="Application._11047_2__JVM_Kt" />
+        <item itemvalue="Application._11047_JVM_Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93709962-68c7-41e9-b91e-045066150e1a" name="Default Changelist" comment="" />
+      <created>1604807926005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604807926005</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="563" y="136" key="FileChooserDialogImpl" timestamp="1606782425114">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state x="422" y="102" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1604808055335" />
+    <state x="563" y="136" key="FileChooserDialogImpl/0.0.1707.960@0.0.1707.960" timestamp="1606782425114" />
+    <state width="1067" height="262" key="GridCell.Tab.0.bottom" timestamp="1606892319368">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1204" height="161" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1604808313903" />
+    <state width="1067" height="262" key="GridCell.Tab.0.bottom/0.0.1707.960@0.0.1707.960" timestamp="1606892319368" />
+    <state width="1067" height="262" key="GridCell.Tab.0.center" timestamp="1606892319368">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1204" height="161" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1604808313903" />
+    <state width="1067" height="262" key="GridCell.Tab.0.center/0.0.1707.960@0.0.1707.960" timestamp="1606892319368" />
+    <state width="1067" height="262" key="GridCell.Tab.0.left" timestamp="1606892319367">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1204" height="161" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1604808313903" />
+    <state width="1067" height="262" key="GridCell.Tab.0.left/0.0.1707.960@0.0.1707.960" timestamp="1606892319367" />
+    <state width="1067" height="262" key="GridCell.Tab.0.right" timestamp="1606892319368">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state width="1204" height="161" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1604808313903" />
+    <state width="1067" height="262" key="GridCell.Tab.0.right/0.0.1707.960@0.0.1707.960" timestamp="1606892319368" />
+    <state x="355" y="110" key="SettingsEditor" timestamp="1606886916503">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state x="355" y="110" key="SettingsEditor/0.0.1707.960@0.0.1707.960" timestamp="1606886916503" />
+    <state x="585" y="427" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1606782555288">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state x="585" y="427" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1707.960@0.0.1707.960" timestamp="1606782555288" />
+    <state x="235" y="0" width="749" height="742" key="dock-window-1" timestamp="1606885322343">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state x="235" y="0" width="749" height="742" key="dock-window-1/0.0.1707.960@0.0.1707.960" timestamp="1606885322343" />
+    <state x="282" y="0" width="923" height="649" key="dock-window-2" timestamp="1606893015965">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state x="282" y="0" width="923" height="649" key="dock-window-2/0.0.1707.960@0.0.1707.960" timestamp="1606893015965" />
+    <state x="843" y="224" key="run.anything.popup" timestamp="1605074779215">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state x="843" y="224" key="run.anything.popup/0.0.1707.960@0.0.1707.960" timestamp="1605074779215" />
+    <state x="857" y="210" width="672" height="678" key="search.everywhere.popup" timestamp="1606799870350">
+      <screen x="0" y="0" width="1707" height="960" />
+    </state>
+    <state x="857" y="210" width="672" height="678" key="search.everywhere.popup/0.0.1707.960@0.0.1707.960" timestamp="1606799870350" />
+  </component>
+</project>
