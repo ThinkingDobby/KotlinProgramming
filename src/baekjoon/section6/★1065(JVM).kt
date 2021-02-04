@@ -1,4 +1,4 @@
-package practice.baekjoon.section6
+package baekjoon.section6
 
 import java.io.*
 

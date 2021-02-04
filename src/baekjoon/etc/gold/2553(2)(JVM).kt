@@ -1,5 +1,5 @@
 package practice.baekjoon.etc.gold
-// 틀렸습니다, 참조한 코드
+//WA
 import java.io.*
 
 fun main() {
