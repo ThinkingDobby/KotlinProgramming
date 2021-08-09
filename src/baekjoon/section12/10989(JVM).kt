@@ -1,4 +1,4 @@
-package practice.baekjoon.section12
+package baekjoon.section12
 
 import java.io.*
 
@@ -9,7 +9,7 @@ fun main() {
     val n = br.readLine().toInt()
 
     val arr = Array(n) { br.readLine().toInt() }
-    val count = Array(arr.max()!! + 1) { 0 }
+    val count = Array(10001) { 0 }
 
     for (i in 0 until n)
         count[arr[i]]++

@@ -16,7 +16,7 @@ fun main() {
     bw.close()
 }
 
-fun era(n: Int): Array<Boolean> {
+private fun era(n: Int): Array<Boolean> {
     val primeNumbers = Array(n + 1) { true }
     primeNumbers[0] = false
     primeNumbers[1] = false
