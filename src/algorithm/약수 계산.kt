@@ -21,7 +21,7 @@ private fun getDivisors(n: Int): MutableList<Int> {
     while (i * i <= n) {
         if (n % i == 0) {
             divisorList.add(i)
-            divisorList.add(n / i)
+            if (i != n / i) divisorList.add(n / i)
         }
         i++
     }
