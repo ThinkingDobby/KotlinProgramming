@@ -8,24 +8,25 @@ fun main() {
 
     // example
     val n = br.readLine().toInt()
-    era(n).forEachIndexed { idx: Int, value: Boolean ->
-        if (value) bw.write("$idx ")
-    }
+    bw.write("${getPrimes(n)}")
 
     bw.flush()
     bw.close()
 }
 
-private fun era(n: Int): Array<Boolean> {
-    val primeNumbers = Array(n + 1) { true }
-    primeNumbers[0] = false
-    primeNumbers[1] = false
+private fun getPrimes(n: Int): MutableList<Int> {
+    val check = Array(n + 1) { true }
+    val primes = mutableListOf<Int>()
+
+    check[0] = false
+    check[1] = false
 
     for (i in 2..n) {
-        if (primeNumbers[i]) {
-            for (j in 2 * i..n step i) primeNumbers[j] = false
+        if (check[i]) {
+            primes.add(i)
+            for (j in 2 * i..n step i) check[j] = false
         }
     }
 
-    return primeNumbers
+    return primes
 }
