@@ -7,11 +7,11 @@ fun main() {
     val bw = BufferedWriter(OutputStreamWriter(System.out))
 
     val ex = arrayOf(1, 1, 1, 2, 2, 2, 3, 3, 3)
-    bw.write("binary: ${binarySearch(ex, 2, 0, ex.size)}")
+    bw.write("binary: ${binarySearch(ex, 2, 0, ex.size - 1)}")
     bw.newLine()
-    bw.write("lower: ${lowerBound(ex, 2, 0, ex.size)}")
+    bw.write("lower: ${lowerBound(ex, 2, 0, ex.size - 1)}")
     bw.newLine()
-    bw.write("upper: ${upperBound(ex, 2, 0, ex.size)}")
+    bw.write("upper: ${upperBound(ex, 2, 0, ex.size - 1)}")
 
     bw.flush()
     bw.close()
